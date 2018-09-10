@@ -1,0 +1,17 @@
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_QuestTestConsoleApp\AAX_QuestTestConsoleApp\bin\Debug\AAX_QuestTestConsoleApp.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_QuestTestConsoleApp\AAX_QuestTestConsoleApp\bin\Debug\AAX_QuestTestConsoleApp.exe
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_QuestTestConsoleApp\AAX_QuestTestConsoleApp\bin\Debug\AAX_QuestTestConsoleApp.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_QuestTestConsoleApp\AAX_QuestTestConsoleApp\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_QuestTestConsoleApp\AAX_QuestTestConsoleApp\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_QuestTestConsoleApp\AAX_QuestTestConsoleApp\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_QuestTestConsoleApp\AAX_QuestTestConsoleApp\obj\Debug\AAX_QuestTestConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_QuestTestConsoleApp\AAX_QuestTestConsoleApp\obj\Debug\AAX_QuestTestConsoleApp.exe
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_QuestTestConsoleApp\AAX_QuestTestConsoleApp\obj\Debug\AAX_QuestTestConsoleApp.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_QuestTestConsoleApp\AAX_QuestTestConsoleApp\bin\Debug\Microsoft.Azure.Services.AppAuthentication.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_QuestTestConsoleApp\AAX_QuestTestConsoleApp\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_QuestTestConsoleApp\AAX_QuestTestConsoleApp\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_QuestTestConsoleApp\AAX_QuestTestConsoleApp\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_QuestTestConsoleApp\AAX_QuestTestConsoleApp\bin\Debug\Microsoft.Azure.Services.AppAuthentication.xml
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_QuestTestConsoleApp\AAX_QuestTestConsoleApp\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_QuestTestConsoleApp\AAX_QuestTestConsoleApp\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_QuestTestConsoleApp\AAX_QuestTestConsoleApp\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
